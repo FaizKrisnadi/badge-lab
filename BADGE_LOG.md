@@ -3,3 +3,4 @@
 - Merged PR #3 toward Pull Shark Silver
 - Merged PR #4 toward Pull Shark Silver
 - Merged PR #5 toward Pull Shark Silver
+- Merged PR #6 toward Pull Shark Silver
